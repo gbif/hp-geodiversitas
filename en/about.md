@@ -3,8 +3,7 @@ permalink: about
 lang-ref: about
 title: About
 background: /assets/images/placeholders/rocks.png
-imageLicense: |
-  None for this image, but it would normally go here. Markdown is allowed.
+imageLicense:
 height: 70vh
 ---
 [Geodiversitas](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas) is a fully refereed, international, electronic open access journal in earth sciences, covering subjects such as history of sedimentary basins, paleobiodiversity and paleoenvironments.
