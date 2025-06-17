@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Geodiversitas
 description: Browse data extracted from our publications
-background: /assets/images/placeholders/collections.jpg
+background: /assets/images/placeholders/collections.png
 imageLicense:
 height: 90vh
 cta:
