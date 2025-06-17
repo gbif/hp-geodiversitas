@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Geodiversitas
 description: Browse data extracted from our publications
-background: /assets/images/placeholders/catocala_ilia_cramer_2365571744.jpg
+background: /assets/images/placeholders/collections.jpg
 imageLicense:
 height: 90vh
 cta:
