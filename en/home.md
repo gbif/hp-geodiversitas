@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Geodiversitas
 description: Browse data extracted from our publications
-background: /assets/images/placeholders/reconstruction.jpg
+background: /assets/images/placeholders/mazan.jpg
 imageLicense: Reconstruction of the Angeac-Charente landscape, 140 Million years ago. Drawing by Mazan, 2017.
 height: 90vh
 cta:
