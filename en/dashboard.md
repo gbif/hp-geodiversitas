@@ -1,5 +1,6 @@
 ---
-title: Dashboard
+permalink: dashboard
+title: dashboard
 description: Data Graphs
 layout: compose
 composition:
