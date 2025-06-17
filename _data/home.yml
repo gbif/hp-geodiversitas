@@ -1,0 +1,17 @@
+stats:
+  features:
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishing_org=75690ef9-a4be-483d-b2df-f5a19bdd1f9e&limit=0">9,000,000</span>
+      description: Occurrences
+      background: /assets/images/icons/occurrences.png
+      href: /occurrence/search/?view=table
+      blankTarget: false
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_org=75690ef9-a4be-483d-b2df-f5a19bdd1f9e&limit=0">100,000</span>
+      description: Datasets
+      background: /assets/images/icons/datasets.png
+      href: /dataset/search/
+      blankTarget: false
+    - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?publishingOrganizationKey=75690ef9-a4be-483d-b2df-f5a19bdd1f9e&limit=0">100,000</span>
+      description: Citations
+      background: /assets/images/icons/citations.png
+      href: literature/search
+      blankTarget: false
