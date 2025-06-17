@@ -2,7 +2,7 @@
 permalink: about
 lang-ref: about
 title: About
-background: /assets/images/placeholders/mazan.jpg
+background: /assets/images/placeholders/mazan2.jpg
 imageLicense: Reconstruction of the Angeac-Charente landscape, 140 Million years ago. Drawing by Mazan, 2017.
 height: 70vh
 ---
