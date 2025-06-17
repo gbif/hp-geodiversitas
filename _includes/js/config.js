@@ -2,7 +2,7 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
   primary: themeStyle.colors.primary,
   fontSize: '16px'
 }});
-const publisherKey = '75690ef9-a4be-483d-b2df-f5a19bdd1f9';
+const publisherKey = '75690ef9-a4be-483d-b2df-f5a19bdd1f9e';
 
 var siteConfig = {
   routes: {
