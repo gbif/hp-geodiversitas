@@ -12,7 +12,7 @@ It provides immediate free open access to its content on the principle that maki
 
 ### Journal history
 
-Geodiversitas continues as from 1997 the [Bulletin du Muséum national d'Histoire naturelle, 4ème série – section C : Sciences de la Terre, Paléontologie, Géologie, Minéralogie](https://sciencepress.mnhn.fr/fr/periodiques/bulletin-du-museum-national-d-histoire-naturelle-4eme-serie-section-c-sciences-de-la-terre-paleontologie-geologie-mineralogie) published from 1979 to 1996. From 2018, Geodiversitas is published online only with a continuous flow of publication (fast-track).
+Geodiversitas continues as from 1997 the [Bulletin du Muséum national d'Histoire naturelle, 4ème série – section C : Sciences de la Terre, Paléontologie, Géologie, Minéralogie](https://sciencepress.mnhn.fr/fr/periodiques/bulletin-du-museum-national-d-histoire-naturelle-4eme-serie-section-c-sciences-de-la-terre-paleontologie-geologie-mineralogie) (1979-1996). From 2018, Geodiversitas is published online only with a continuous flow of publication (fast-track).
 
 ### Journal data
 
