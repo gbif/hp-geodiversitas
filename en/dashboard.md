@@ -1,6 +1,6 @@
 ---
 permalink: dashboard
-title: dashboard
+title: Dashboard
 description: Data Graphs
 layout: compose
 composition:
